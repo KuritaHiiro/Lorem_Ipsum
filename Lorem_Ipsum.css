@@ -217,6 +217,38 @@ li {
   font-size: 16px;
 }
 
+#contact {
+  background-color: #fff;
+}
+.contact-group {
+  display: flex;
+  width: 800px;
+  padding: 30px 0 90px 0;
+  margin: 0 auto;
+}
+.left-contact-content {
+  width: 130px;
+  margin: 0 auto;
+}
+
+.link-text {
+  color: #000;
+  text-decoration: underline;
+}
+
+.right-contact-content {
+  width: 170px;
+  margin: 0 auto;
+}
+
+.right-contact-content .fab:last-child {
+  margin-right: 0;
+}
+.right-contact-content .fab {
+  font-size: 45px;
+  margin-right: 20px;
+}
+
 
 footer {
   width: 100%;
